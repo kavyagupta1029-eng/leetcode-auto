@@ -11,14 +11,17 @@ My daily LeetCode solutions in C++ auto saved
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
