@@ -6,6 +6,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
@@ -15,6 +16,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -25,6 +27,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
@@ -34,4 +37,8 @@ My daily LeetCode solutions in C++ auto saved
 | ------- |
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
