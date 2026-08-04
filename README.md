@@ -34,6 +34,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0051-n-queens](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,12 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
