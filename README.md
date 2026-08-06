@@ -14,6 +14,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -52,4 +54,16 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
