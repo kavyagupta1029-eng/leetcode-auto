@@ -12,6 +12,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0051-n-queens](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
@@ -80,4 +82,8 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
