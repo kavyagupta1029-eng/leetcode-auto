@@ -23,6 +23,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ My daily LeetCode solutions in C++ auto saved
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
@@ -121,4 +123,8 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
