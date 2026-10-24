@@ -33,6 +33,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -69,6 +70,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +132,9 @@ My daily LeetCode solutions in C++ auto saved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
