@@ -28,6 +28,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
@@ -66,6 +67,7 @@ My daily LeetCode solutions in C++ auto saved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -127,4 +129,5 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
