@@ -6,6 +6,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0046-permutations) |
@@ -22,6 +23,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +56,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 ## String
