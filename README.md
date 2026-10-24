@@ -91,6 +91,7 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
+| [2235-add-two-integers](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2235-add-two-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
