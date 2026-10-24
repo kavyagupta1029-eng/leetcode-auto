@@ -20,6 +20,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My daily LeetCode solutions in C++ auto saved
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [2235-add-two-integers](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
