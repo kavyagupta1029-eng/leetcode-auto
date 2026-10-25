@@ -150,4 +150,12 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
