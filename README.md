@@ -14,6 +14,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0078-subsets](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
@@ -40,6 +41,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +138,7 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
@@ -143,4 +146,8 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
