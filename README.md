@@ -16,6 +16,7 @@ My daily LeetCode solutions in C++ auto saved
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ My daily LeetCode solutions in C++ auto saved
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,6 +150,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -177,4 +180,12 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
