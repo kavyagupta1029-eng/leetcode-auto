@@ -99,6 +99,7 @@ My daily LeetCode solutions in C++ auto saved
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0523-continuous-subarray-sum) |
 | [2235-add-two-integers](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/3875-construct-uniform-parity-array-i) |
@@ -188,4 +189,8 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0455-assign-cookies) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
