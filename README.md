@@ -87,11 +87,13 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -113,6 +115,7 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,4 +200,8 @@ My daily LeetCode solutions in C++ auto saved
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/0319-bulb-switcher) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kavyagupta1029-eng/leetcode-auto/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
